@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+data/SciScript-Python
+data/raw_data
+.env
+Prelims
