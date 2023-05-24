@@ -4,3 +4,4 @@ data/SciScript-Python
 data/raw_data
 .env
 Prelims
+.notification.py
